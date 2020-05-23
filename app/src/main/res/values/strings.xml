@@ -3,5 +3,6 @@
     <string name="user">Usuario</string>
     <string name="pass">Contraseña</string>
     <string name="obligatorio">*Campo Requerido</string>
-    <string name="olvidocontraseña">¿Olvido su contraseña?</string>
+    <string name="olvidocontraseña">¿Olvidó su contraseña?</string>
+    <string name="text1olvidocontraseña">Ingrese el correo electronico de su cuenta</string>
 </resources>
